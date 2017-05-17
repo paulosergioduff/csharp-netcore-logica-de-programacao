@@ -1,0 +1,8 @@
+/Users/eduardopinhao/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/Users/eduardopinhao/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/Users/eduardopinhao/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/Users/eduardopinhao/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/Users/eduardopinhao/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/Users/eduardopinhao/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/Users/eduardopinhao/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/Users/eduardopinhao/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
